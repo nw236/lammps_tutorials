@@ -10,4 +10,5 @@ Planned tutorials
 * Introduce fixed to create changes. Example here heating and cooling a system
 * Introducing regions, using these to influence parts of the structure. Here melting on half
 * Introducing Monte Carlo steps to equilibrate a binary system
+* Using lammps from python, access data from within lammps in python script
   
